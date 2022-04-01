@@ -2,7 +2,7 @@ package arrays;
 
 public class FindTheSumAndProductOfArray {
     public static void main(String[] args) {
-        int[] arr = {1,3,4,5};
+        int[] arr = {1, 3, 4, 5};
 
         spOfArray(arr);
     }
